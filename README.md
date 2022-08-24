@@ -1,2 +1,2 @@
 # basic-examples
-Basic Sherbet API examples
+Basic Sharpbet API examples
